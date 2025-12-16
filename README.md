@@ -14,3 +14,7 @@
 - HTML5
 - CSS3
 - JavaScript
+
+## Ссылка на репозиторий
+
+https://github.com/rusartzoom/posmotri-v-okno-fd
